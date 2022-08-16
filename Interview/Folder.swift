@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct Folder {
+    var folderTitle: String
+    var color: String
+}

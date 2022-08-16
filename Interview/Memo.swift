@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+struct Memo {
+    var uuidString: String
+    var question: String
+    var answer: String
+    var isStar: Bool
+}
